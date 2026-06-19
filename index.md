@@ -12,12 +12,14 @@ I am a Ph.D. student in Statistical Sciences (Curriculum: Demography) at [Sapien
 - **Life-Course Research:** life-course dynamics and how individual trajectories intersect over time
 - **Climate Demography:** climate change and its implications for population dynamics
 
+<!--
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+-->
 
 {% include_relative _includes/publications.md %}
 
