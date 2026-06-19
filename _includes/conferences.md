@@ -2,8 +2,6 @@
  
 <h4 style="margin:0 10px 0;">Oral Presentations</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.eaps.nl/epc/european-population-conference-2026"><autocolor>European Population Conference (EPC 2026)</autocolor></a> — Bologna, Italy, June 2026.<br>
-  <em>"Converging Downward: The Diffusion of Low Fertility across Italian Municipalities, 2003–2022"</em> (poster).</li>
   <li><a href="https://www.demogr.mpg.de/"><autocolor>Climate Change, Environmental Hazards and Population Dynamics</autocolor></a> — MPIDR, Rostock, Germany, November 2025.<br>
   <em>"The Impact of High Temperatures on Fertility: Evidence from Italian Municipalities (2003–2022)"</em>. (with A. Giraldo)</li>
   <li><a href="https://ipc2025.popconf.org/"><autocolor>30th International Population Conference (IPC 2025)</autocolor></a> — Brisbane, Australia, July 2025.<br>
@@ -15,7 +13,9 @@
 </ul>
 <h4 style="margin:0 10px 0;">Poster Presentations</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.wittgensteincentre.org/"><autocolor>Delayed Reproduction: Challenges and Prospects</autocolor></a> — Wittgenstein Centre Conference, Vienna, Austria, November 2024.<br>
+ <li><a href="https://www.eaps.nl/epc/european-population-conference-2026"><autocolor>European Population Conference (EPC 2026)</autocolor></a> — Bologna, Italy, June 2026.<br>
+  <em>"Converging Downward: The Diffusion of Low Fertility across Italian Municipalities, 2003–2022"</em>.</li> 
+ <li><a href="https://www.wittgensteincentre.org/"><autocolor>Delayed Reproduction: Challenges and Prospects</autocolor></a> — Wittgenstein Centre Conference, Vienna, Austria, November 2024.<br>
   <em>"Understanding Childlessness Through Life Trajectories: Evidence from Italy"</em>. (with A. Donno, M.L. Tanturri)</li>
   <li><a href="https://www.stat.unipd.it/"><autocolor>Lorenzo Bernardi e la Statistica Sociale</autocolor></a> — University of Padova, Italy, October 2024.<br>
   <em>"Fertility, Employment and Union Dissolution in Italy: a Multiprocess Hazard Model"</em>. (with A. Donno, M.L. Tanturri)</li>
