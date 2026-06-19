@@ -92,6 +92,18 @@
         </div>
         <br>
 
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+           <i class="ai ai-orcid"></i>
+        </a>
+        {% endif %}
+
+        {% if site.university %}
+        <a style="margin: 0 5px 0 0" href="{{ site.university }}">
+          <i class="fas fa-university"></i>
+        </a>
+        {% endif %}
+
       </header>
       <section>
 
