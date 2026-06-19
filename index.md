@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Statistical Sciences (Curriculum: Demography) at [Sapienza University of Rome](https://www.uniroma1.it/en/) and a fellow of the [European Doctoral School of Demography (EDSD)](https://www.eaps.nl/edsd/) 2025–2026, jointly hosted at the Max Planck Institute for Demographic Research (MPIDR, Rostock) and INED (Paris).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Demography:** low fertility, childlessness, and gender equality
+- **Life-Course Research:** life-course dynamics and how individual trajectories intersect over time
+- **Climate Demography:** climate change and its implications for population dynamics
 
 ## News
 
@@ -20,4 +21,4 @@ I am a Ph.D. student at ...
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/conferences.md %}
