@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Statistical Sciences (Curriculum: Demography) at [Sapienza University of Rome](https://www.uniroma1.it/en/) and a [European Doctoral School of Demography (EDSD)](https://www.eaps.nl/edsd/) 2025–2026 cohort, jointly hosted at the Max Planck Institute for Demographic Research (MPIDR, Rostock) and INED (Paris).
+I am a Ph.D. student in Statistical Sciences (Curriculum: Demography) at [Sapienza University of Rome](https://www.uniroma1.it/en/) and a former student of the [European Doctoral School of Demography (EDSD)](https://www.eaps.nl/edsd/), 2025–2026 cohort, jointly hosted at the Max Planck Institute for Demographic Research (MPIDR, Rostock) and INED (Paris).
 
 ## Research Interests
 
