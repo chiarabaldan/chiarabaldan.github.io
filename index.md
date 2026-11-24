@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Statistical Sciences (Curriculum: Demography) at [Sapienza University of Rome](https://www.uniroma1.it/en/) and a fellow of the [European Doctoral School of Demography (EDSD)](https://www.eaps.nl/edsd/) 2025–2026, jointly hosted at the Max Planck Institute for Demographic Research (MPIDR, Rostock) and INED (Paris).
+I am a Ph.D. student in Statistical Sciences (Curriculum: Demography) at [Sapienza University of Rome](https://www.uniroma1.it/en/) and a [European Doctoral School of Demography (EDSD)](https://www.eaps.nl/edsd/) 2025–2026 cohort, jointly hosted at the Max Planck Institute for Demographic Research (MPIDR, Rostock) and INED (Paris).
 
 ## Research Interests
 
-- **Demography:** low fertility, childlessness, and gender equality
+- **Demography:** fertility, childlessness, and gender equality
+- **Environmental Demography:** climate change, air pollution, and their implications for population dynamics
 - **Life-Course Research:** life-course dynamics and how individual trajectories intersect over time
-- **Climate Demography:** climate change and its implications for population dynamics
+
 
 <!--
 ## News
