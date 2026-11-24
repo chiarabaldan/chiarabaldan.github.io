@@ -21,9 +21,17 @@ main:
 #    notes: Oral Presentation
 #    image: ./assets/img/teaser_example.png
 
+  - title: "The growing complexity of life trajectories leading to permanent childlessness: evidence from Italian cohorts"
+    authors: <strong>Chiara Baldan</strong>, Annalisa Donno, Maria Letizia Tanturri
+    conference_short: Genus
+    conference: <strong>Genus</strong>, 2026.
+    pdf: https://doi.org/10.1186/s41118-026-00300-8
+    image: ./assets/img/teaser2.png
+    
   - title: "Construction of a healthy lifestyle index using Italian national survey data"
     authors: Manuela Scioni, <strong>Chiara Baldan</strong>, Alessia Ghirardo, Giovanna Boccuzzo
     conference_short: IJPDS
     conference: International Journal of Population Data Science <strong>(IJPDS)</strong>, Vol. 10, Issue 3, 2025.
-    pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12668253/
+    pdf: https://doi.org/10.23889/ijpds.v10i3.2977
     image: ./assets/img/teaser1.png
+  
